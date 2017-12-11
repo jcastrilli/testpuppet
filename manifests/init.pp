@@ -38,6 +38,6 @@
 class motd {
 	file { '/etc/motd':
 		ensure => present,
-		content => "Welcome!\n"
+		content => "Welcome!\n",
 	}
 }
