@@ -1,2 +1,0 @@
-# testpuppet
-Testing Puppet + Github
